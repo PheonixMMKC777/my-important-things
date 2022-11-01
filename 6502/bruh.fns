@@ -1,0 +1,2 @@
+; bruh.asm
+reset                            = $E000
